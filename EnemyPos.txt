@@ -1,6 +1,0 @@
-Empty.bmp 0 0 16 16 1
-StageData.bmp 0 0 16 16 1
-Resource\STG01\CHR_ENE.BMP 0 0 16 16 4
-Resource\SYS\CHR_PLY.bmp 0 6784 16 16 4
-Resource\SYS\CHR_PLY.bmp 0 4608 16 16 4
-Resource\SYS\CHR_PLY.bmp 0 8832 16 16 4
