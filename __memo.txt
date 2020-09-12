@@ -1,0 +1,11 @@
+リリース手順
+	BootMenu をビルド
+	Editor をビルド
+	Shoot をビルド
+	Tools をビルド
+	_Release.bat を実行 -> out\
+	_ReleaseEditor.bat を実行 -> bin\
+
+外部のフォルダ
+	C:\appdata\BF_MusShootTileData ... TileData @ Editor
+	C:\appdata\BF_MusShootStageData ... StageData @ BootMenu
